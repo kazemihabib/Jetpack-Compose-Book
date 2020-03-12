@@ -1,0 +1,6 @@
+[book]
+authors = ["Habib Kazemi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Jetpack compose book"
